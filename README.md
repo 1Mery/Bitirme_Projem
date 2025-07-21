@@ -11,3 +11,6 @@ Bu proje, hasta randevuları optimize edilmesi için geliştirilmiştir.
 - PostgreSQL
 - Thymeleaf
 - HTML / CSS
+
+
+> Bu projeye ait kodlar özel olduğu için paylaşılmamıştır.
